@@ -1,0 +1,14 @@
+C:\Users\Javohir\Calculator\Calculator\bin\Debug\net9.0\Calculator.exe
+C:\Users\Javohir\Calculator\Calculator\bin\Debug\net9.0\Calculator.deps.json
+C:\Users\Javohir\Calculator\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+C:\Users\Javohir\Calculator\Calculator\bin\Debug\net9.0\Calculator.dll
+C:\Users\Javohir\Calculator\Calculator\bin\Debug\net9.0\Calculator.pdb
+C:\Users\Javohir\Calculator\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javohir\Calculator\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Javohir\Calculator\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+C:\Users\Javohir\Calculator\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Javohir\Calculator\Calculator\obj\Debug\net9.0\Calculator.dll
+C:\Users\Javohir\Calculator\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+C:\Users\Javohir\Calculator\Calculator\obj\Debug\net9.0\Calculator.pdb
+C:\Users\Javohir\Calculator\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+C:\Users\Javohir\Calculator\Calculator\obj\Debug\net9.0\ref\Calculator.dll
